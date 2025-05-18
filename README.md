@@ -6,6 +6,8 @@
 ![Vite](https://img.shields.io/badge/Vite-5.4.9-646CFF?style=flat-square&logo=vite)
 ![API](https://img.shields.io/badge/Frankfurter_API-REST-FF9800?style=flat-square)
 
+![Image](https://github.com/user-attachments/assets/4cf43f34-e880-4599-a1e2-05822b78d147)
+
 ## Функциональность
 
 - Конвертация между различными валютами в реальном времени
